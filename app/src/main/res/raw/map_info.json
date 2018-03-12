@@ -1,0 +1,252 @@
+{
+  "size": {
+    "width": 660,
+    "height": 694
+  },
+  "corners": {
+    "bottom": {
+      "logical": {
+        "x": 52,
+        "y": 655
+      },
+      "physical": {
+        "x": 37.331554,
+        "y": -121.882841
+      }
+    },
+    "right": {
+      "logical": {
+        "x": 598,
+        "y": 655
+      },
+      "physical": {
+        "x": 37.334562,
+        "y": -121.876484
+      }
+    },
+    "left": {
+      "logical": {
+        "x": 52,
+        "y": 187
+      },
+      "physical": {
+        "x": 37.335823,
+        "y": -121.886025
+      }
+    }
+  },
+  "buildings": [
+    {
+      "name": "San José State University Charles W. Davidson College of Engineering",
+      "address": "1 Washington Square, San Jose, CA 95112",
+      "abbr": "Engineering Building",
+      "center": {
+        "x": 390,
+        "y": 243
+      },
+      "location": {
+        "x": 37.3370102,
+        "y": -121.8816004
+      },
+      "viewPoint": {
+        "x": 37.3376829,
+        "y": -121.8822086
+      },
+      "defaultImage": "eb",
+      "vertexes": [
+        {
+          "x": 345,
+          "y": 198
+        },
+        {
+          "x": 432,
+          "y": 197
+        },
+        {
+          "x": 430,
+          "y": 292
+        },
+        {
+          "x": 342,
+          "y": 295
+        }
+      ]
+    },
+    {
+      "name": "Dr. Martin Luther King, Jr. Library",
+      "abbr": "King Library",
+      "address": "150 East San Fernando Street, San Jose, CA 95112",
+      "center": {
+        "x": 95,
+        "y": 233
+      },
+      "defaultImage": "kl",
+      "location": {
+        "x": 37.335455,
+        "y": -121.885022
+      },
+      "viewPoint": {
+        "x": 37.3355729,
+        "y": -121.8858725
+      },
+      "vertexes": [
+        {
+          "x": 75,
+          "y": 195
+        },
+        {
+          "x": 75,
+          "y": 266
+        },
+        {
+          "x": 115,
+          "y": 266
+        },
+        {
+          "x": 115,
+          "y": 195
+        }
+      ]
+    },
+    {
+      "name": "Yoshihiro Uchida Hall",
+      "abbr": "Yoshihiro Uchida Hall",
+      "address": "Yoshihiro Uchida Hall, San Jose, CA 95112",
+      "center": {
+        "x": 77,
+        "y": 437
+      },
+      "defaultImage": "yuh",
+      "viewPoint": {
+        "x": 37.3334526,
+        "y": -121.8842761
+      },
+      "vertexes": [
+        {
+          "x": 62,
+          "y": 406
+        },
+        {
+          "x": 61,
+          "y": 471
+        },
+        {
+          "x": 127,
+          "y": 471
+        },
+        {
+          "x": 122,
+          "y": 410
+        }
+      ]
+    },
+    {
+      "abbr": "Student Union",
+      "name": "Student Union Building",
+      "address": "Student Union Building, San Jose, CA 95112",
+      "center": {
+        "x": 390,
+        "y": 327
+      },
+      "defaultImage": "su",
+      "location": {
+        "x": 37.336321,
+        "y": -121.881290
+      },
+      "viewPoint": {
+        "x": 37.3376829,
+        "y": -121.8822086
+      },
+      "vertexes": [
+        {
+          "x": 341,
+          "y": 310
+        },
+        {
+          "x": 342,
+          "y": 344
+        },
+        {
+          "x": 423,
+          "y": 346
+        },
+        {
+          "x": 422,
+          "y": 313
+        }
+      ]
+    },
+    {
+      "abbr": "BBC",
+      "name": "Boccardo Business Complex",
+      "address": "Boccardo Business Complex, San Jose, CA 95112",
+      "center": {
+        "x": 563,
+        "y": 381
+      },
+      "defaultImage": "bbc",
+      "viewPoint": {
+        "x": 37.3369032,
+        "y": -121.8782262
+      },
+      "location": {
+        "x": 37.3369032,
+        "y": -121.8782262
+      },
+      "vertexes": [
+        {
+          "x": 526,
+          "y": 404
+        },
+        {
+          "x": 593,
+          "y": 405
+        },
+        {
+          "x": 593,
+          "y": 360
+        },
+        {
+          "x": 530,
+          "y": 360
+        }
+      ]
+    },
+    {
+      "abbr": "South Parking Garage",
+      "name": "San Jose State University South Garage",
+      "address": "330 South 7th Street, San Jose, CA 95112",
+      "center": {
+        "x": 260,
+        "y": 604
+      },
+      "defaultImage": "spg",
+      "viewPoint": {
+        "x": 37.3327143,
+        "y": -121.88033
+      },
+      "location": {
+        "x": 37.333074,
+        "y": -121.8807052
+      },
+      "vertexes": [
+        {
+          "x": 198,
+          "y": 568
+        },
+        {
+          "x": 199,
+          "y": 642
+        },
+        {
+          "x": 318,
+          "y": 642
+        },
+        {
+          "x": 318,
+          "y": 568
+        }
+      ]
+    }
+  ]
+}

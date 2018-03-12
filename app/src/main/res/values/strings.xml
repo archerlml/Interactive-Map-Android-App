@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SJSU Campus</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="map_api_key">AIzaSyDAck-x5KuXCTt-zzlgXnn6V-2KaSYvqBQ</string>
+    <string name="place_api_key">AIzaSyAT7ZXAlBi4cIYqE2UFYAYmBTxE2GbQhuw</string>
+</resources>

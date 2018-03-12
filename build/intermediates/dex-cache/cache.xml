@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f614826e051eeb3f80d198e29b9f8b1bfeb75099.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.1_dd09a6ab07681dfc65007676270605908af72a7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-9.6.1_6a794884c0b257ca7a90cac5fe8255a5ceb9d7dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-9.6.1_a596241c021fdd4d50fb79b0a490e484d1d8145f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.6.1_451d8ebfab73eec0fc9df1538779645b83a84071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.6.1_1b9be741206c87b1d612051421f5c5b49daf9c2c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.1_412aea6905147735b4f4319ac714748537174d2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.6.1_2f87a56efe9e49db88d0ea805c4523a583e59add.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/net.objecthunter/exp4j/0.4.7/f910cbcc730e5bd5e7699d8c14905c07c6c12d47/exp4j-0.4.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f910cbcc730e5bd5e7699d8c14905c07c6c12d47">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/exp4j-0.4.7_afc0547e897ca206cf9cff45e775c050fb89c82e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.6.1_96f5018b3f31b18bdb08465a36797aa1d12a4f3e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.6.1_dd0442819660fd955b9b4db3899d494b2449a3d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/okio-1.9.0_117968d2f845670959dbc333e01bfc6b694235ec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.6.1_467c50d573c59ba3c4a3fe0ac3bf52cceea994fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.1_e0945a0490358831567909866e34f55e0cededa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.1_d497bcab47cbb8245f7aa0e7ef0d85f389684aa7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_877b0be92fb182b0f4430e0932f284b7c726356d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_bd3fcd2238667f5f24fcdcabd807be0ae710861e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6915f44c35e09bf175ffd7995fcda49ec8866c00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_ea085d2deafd157808c508d8d4c4f0353aaa6a35.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.1_871ec8fa79ecf68d18a12af8e05bb3b0192821c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_c618c9eaae06e6981d6525772a1c07c60d8d4b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_9bb01a308087f7c96bbd95396ab73c946b8bb649.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_c33ef26b190646cd730f6e95292acca86bab6608.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9dfb1e6127721ada070c097681e6b28447813415/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_601732b84d0ef20f2f9284b89bedeffac96740ee.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.1_bc550cdc37ce4aa484816b3cbd28902cb576f04f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_ac658c17e4602c80428b66520f1cefd0e99fbc08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.6.1_30c17880d6ffb5e8b8e3b564cf1b2d38f663ad5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.6.1_6cdbd3d4b7f3ab81f1af3bf973b2da178efd1ef5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.6.1_ad352e3fb033c4bbd978dcd8875ef134ab768e55.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.6.1_b889e721994c91ab254d0a50f01da37be748a788/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.6.1_5f9a3d5e411a19be30350f432ff117bfbae780a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-9.6.1_480c495cbe47da6a8788d3dcf42fb96b156ee793.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-9.6.1_0c2fb56a3da4ff95c91582301e4672dd63a9aef0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.6.1_82dea95cd2a70dc64d8908f8c60e708de6b7ea05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.1_773dae17a54e3ff522397187a5199c2350f93f0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_53a4c662a910332d67af649e50ec9f3540512a2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.0/45b426f7796b741035581a176744d91090e2e6fb/jackson-annotations-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45b426f7796b741035581a176744d91090e2e6fb">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.8.0_96fe97723300143f7856d6a0beff0636a8d7472a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.6.1_9c94eda89892892c98bc7c4ea8a9e934296e80a0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.1_c5db3563489a5257174ade6c7e5b0a9075015d47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_0b7b5e717de3b4b254260115f3a8720a6bf81758/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_164eb0a1f184db975a4cdb49303b484eb3f0d0f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_2162d4815dfa5a5448c3271eacbadf29761173b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4813a6901175b63de330903f0c325c19d2052541">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b00e480ec13c2dd61e918b3ed25dcbffcf4869cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0448eb561dbf6099226c2cbddc42838051ce23df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.1_3487f09c91df558183a7ce455de715dc96315840/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.6.1_7497bdeaa31181a20fee312d2c43fd8f7cbc0869.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.1_7e71d9083221069a60aa51fc73b2be51194daea0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.1_e9e49f9c974b26a85a89123252bf7e10e5880e27/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8143cf202d7e27c29e693397db9ceacbf124529a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.6.1_8ef431bc06076f85b88b979a9b16d72639e063ee.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/net.objecthunter/exp4j/0.4.7/f910cbcc730e5bd5e7699d8c14905c07c6c12d47/exp4j-0.4.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f910cbcc730e5bd5e7699d8c14905c07c6c12d47">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/exp4j-0.4.7_afc0547e897ca206cf9cff45e775c050fb89c82e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="af091db9b75f35e3a6b7c2cf902d492b7f4db3d6">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f0cfe9391b49a9485fc0f1c2839a492c269ccc42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_35240af4b0287043a6975f0272956366a15a1617/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.0.0_b78d8f3abd26beb6eff7f838a364b10101020032.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_28f6e83a0f69fd778c6bac0e2d282dbaa48474cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_53a4c662a910332d67af649e50ec9f3540512a2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.6.1_4ca79c2e4ccc65952e8e95e6be5a6f7b10b1f069.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-9.6.1_8c7020d894e12b97ce0b35116839d16e88ea6ba9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.1_cf5e11ac7a34a0bea165eeca4db60f35f5b29668/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.1_18213941469b6ea0ca9fe0c372c22a0fc242eccd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-9.6.1_0f2a9ba873964ab73cdea3bf158fede5637741b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.6.1_b163d327c64e0dbbfe3b45c51e531b9fbd4049f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_76211198a5726daf203c5ba1edc0864bbc4740a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-9.6.1_bb78f506d0626922bc57658a8754bd8b319f0ccc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_854e45a90af2663a8be7e751113fea8f657d6e55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.1_028fd35fe814883a4e6785ede5578ab406dd9e66/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_149464eb6758adff0ca4642de580908b45f94b92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_d40d7b5060fa1514209640bf883cd71d09d142b8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.1_d84dd6cf91a7ffdcc6742cb82a91cce068a6d1d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-3.0.0_574589b7e925ee675e9644941a40e679f4e0b01d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_57dd6bd07b9e487ea4ea919166305ed05d50c058/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.1_67c352ec750b95898728c2928c3361749d8c8564/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-9.6.1_b9eed2b7901dd69bd2ae4b57f462576c23cd4315.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_53c028d3e1c256ed65c1900880298f42a2640ad2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.6.1_ce416f6c6481442912076ef23c9210379580967d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_c24c1dbb1c26fa7d2484542eed6daf790eef8e20.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_998d134963ba40d067b0efa8f4fc64a69af70695/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.1_eb4b09628194825c4a0368eddfdb3a9c7a64741a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.1_8b0e9cb6a93f3036c94ff2cfdecfbe224adcb6ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-instantapps-9.6.1_0173644e4f2118d0a743cf77581026c8e1a5787a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.1_344b2a17319ebccf3419a87a616eee52c1d05a7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.1_fb28186c632061f41ab9e0d76020841d999e4057/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_2d033627adffe9a8984d5b3f51c7e52f2145a291.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_f12d2ce0e92da5c177b07978d2c020b05b2ba80f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.6.1_43f90ebb551858ccae421e67822a698a13ad16a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_fd0da58b94e707f0cd142354c74195e6f00b68c7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.6.1_6a15c191a5de2c6cb7ed3889192f234e6a03fe35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.4/1c36c81e79cacdf48116afba8495e3393d267ba1/jackson-databind-2.8.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1c36c81e79cacdf48116afba8495e3393d267ba1">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.8.4_e72c5f4b1c10a2a93486494b61990dd83dec5202/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_d674ac39568058057a9cb63e2edb8e23d50bf5bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-9.6.1_02cbc7f454dd1786d6b64adfbdcf7bedecd8ba3a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.6.1_f3f87fcc13ef178461270d685a0d581cbb7f7454/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.1_2b94a6fcc2719563b17c0cb7dff2bdd2a82c3b08/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_78041962e59917b3ae88d9e55e7d2cc719678a5c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.6.1_9a66e7420b6f05d17c3edb2c83be112d0678bda9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.4/ca365c0817cc345ea831cae7c4e9b42a72b32281/jackson-core-2.8.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca365c0817cc345ea831cae7c4e9b42a72b32281">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.8.4_b03673550401637d6cfa9d28fda0cf6e900a02a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.1_23a2444514c649d3c342d255507369a30737fe29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_c24c1dbb1c26fa7d2484542eed6daf790eef8e20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_d70ca835a236b09a30680f56735d29802929d2b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_c703a6cea490dcf837fe941a3e355d0971d3e391/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.0/45b426f7796b741035581a176744d91090e2e6fb/jackson-annotations-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45b426f7796b741035581a176744d91090e2e6fb">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.8.0_96fe97723300143f7856d6a0beff0636a8d7472a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3230c1d340d93ca1b5e27866a5b53a90e00d01ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.6.1_40d4ee1bfcc315e3b76393d16f5efa2372b4d0b1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.1_950766bd6084c72dadb4a600c7f987c3b88faf4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_059717afe8083d659587e5c55b06eaa65c58fe9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_a752f8eb2186c69ebcf69fb0428ba11871d74846/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_ba5fe8290897d739bc9934f211ce68ee16415d85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.6.1_bb4e46ffa170c5c08440fc475ce530929c27617b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-9.6.1_b9b49e68676a3dea4051142f316b4a716a126778.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.1_a2aa47353396bbad00916ce9df9893e1ae972db2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.6.1_f3e6a7d255114560ca0daeb4061293256b53d19d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.4/1c36c81e79cacdf48116afba8495e3393d267ba1/jackson-databind-2.8.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1c36c81e79cacdf48116afba8495e3393d267ba1">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/jackson-databind-2.8.4_e72c5f4b1c10a2a93486494b61990dd83dec5202.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_f212c8bdd0eda06c667428d13def3ce361ef67b4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.1_8a678459146d50bd1842b844aced0279bd29a1f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-9.6.1_4203816b9f68a6c96e4decf4df3b8c9b4736a832.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_d9b752957717afe3a7802a066adc2d06aa0bfbf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.6.1_2816bbd9b4011eaad3076f1eb7696837967bd5b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.4/ca365c0817cc345ea831cae7c4e9b42a72b32281/jackson-core-2.8.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca365c0817cc345ea831cae7c4e9b42a72b32281">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/jackson-core-2.8.4_b03673550401637d6cfa9d28fda0cf6e900a02a7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_1dd6214160db54caf69c8f0097bf88c49a4bbe1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.1_45202bc631f7bb16620eff74ffeb97adf80a6061/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.6.1_82a356f77c33950a1cebef9c66275c573eccfb39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.6.1_2cada874b994c4fffb39f6ed950c35d4dae9ea26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.1_0a38575d70e75230701af1d73dec729afbcc4af3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-9.6.1_17777460d6465308759b4956c6b0730876012490.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_bff1daf7c773d9146fe5fca2ab86139ac3b13bcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_4369ec9c800602c6baff5141d3c7a258bc758c28/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-9.6.1_8a397fa5fc3400ddede00d63cb04c65d5d9e5aa9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.6.1_7da9eb48bad0b08619cfe43b2a8b14e2c4094715/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-24.0.0_afcac3059852e09d5c7ffbae918a875e353f820d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.6.1_d7ab29cdd57aa77dedafbc59b62a4de6d4e5e8a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_ba5fe8290897d739bc9934f211ce68ee16415d85.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.1_7531033dbfb1882c56f35127c1ee2054195f7255/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.6.1_80984f3553ebe02ca7114f7280408cdff8b4b740.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_574589b7e925ee675e9644941a40e679f4e0b01d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.1_aeec520660c339aee418b34629d5dea74e6d5663/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-9.6.1_a0a1fabea17879da9f836958adbdb432d27b91ac.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_8f1437579497dcb8a8b8ab4f0bc831397de1c37c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_d3ddf8867bc0bcd214716f585cc4004da6ba8813/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.6.1_490816c403a0c1a6f95115228efbf3eab62c221d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.6.1_9f791438f0cd1dbd7235c79e85ecb149155be5f4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_959e32ab2dbbc1bdfea6c3312dac930811a7016a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.1_98b81674a74041b1fc765ab537d02085c1cd54b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_2493246d1c1e0c53a541a6901939c1e534533775/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_e8a9b35f34c9cfa36b757c487f3b6b36071cc091/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-9.6.1_86a638d1c7e3874a57727fb46850a386825c4467.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.1_03793701d3ce383e2e19ab50cdbc77a0ec41428d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_877b0be92fb182b0f4430e0932f284b7c726356d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.6.1_4de053b168c44ec5d1cdce6c4673f4464e0b968f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_1dd6214160db54caf69c8f0097bf88c49a4bbe1e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/Downloads/gradle-3.1/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_117968d2f845670959dbc333e01bfc6b694235ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-9.6.1_054e17b385605b1186accfc4ea1d25d230df6fee.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_c803f0d713105572baa80225c9d1ed0d6d33f679/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.6.1_b3867bcf5b33625dcccc25b7733826d59d8e59e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-9.6.1_30a5133581755334931f597645b94524593928a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.1_90fae42d0d541bba130947d8f0ef277f5819de7c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.1_a3609b8c484588d62aa05a9a2ce5317c2d951ffc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-awareness-9.6.1_e6597dbe24cc2ebb45e1ffc942547196e58bf378.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_753aefcdb6bab59f7b172312643ead203a8de536.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/archer/AndroidStudioProjects1/277-lab2bitbucket/277-lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_3d58b03abb347ca78fc09fae3e578460d5ab3a1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/archer/Desktop/past semesters/277/lab2/lab2 submission/277-lab2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_09e3628f6cf53b3aecfa89feba556bcc087b75d8.jar" />
+    </item>
+
+</items>
